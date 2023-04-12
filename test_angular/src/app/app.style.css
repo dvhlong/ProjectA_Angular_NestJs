@@ -1,0 +1,18 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+footer {
+    background-color: rgb(113, 158, 226);
+    color: white;
+}
+
+.body {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.content {
+    flex-grow: 1;
+    flex-shrink: 1;
+    display: flex
+}
